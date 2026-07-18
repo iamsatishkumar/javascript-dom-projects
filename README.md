@@ -2,7 +2,7 @@
 
 This repository contains the JavaScript DOM projects I build while learning JavaScript.
 
-# Projects
+## Projects
 
 - 01 - Todo App
 
